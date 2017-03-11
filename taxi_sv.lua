@@ -14,7 +14,7 @@ TriggerEvent('es:getPlayerFromId', source, function(user)
 
    if(success)then
     print('Success data ' ..success)
-     TriggerClientEvent('es:activateMoney', source, total)
+     TriggerClientEvent('es:addedMoney', source, total)
      TriggerClientEvent("es_freeroam:notify", source, "CHAR_BANK_MAZE", 1, "Maze Bank", false, "Your money has been updated to ~g~$".. tonumber(total))
    end
   end)
