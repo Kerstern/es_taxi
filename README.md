@@ -17,5 +17,5 @@ Drive them to destination point and find another one.
 if you are a developer and would like to contribute any help is welcome!
 The contribution guide can be found [here](CONTRIBUTING.md).
 
-## Offical author
+## Official author
 - [MarkViolla](https://forum.fivem.net/users/markviolla/activity)
